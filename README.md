@@ -1,2 +1,3 @@
 # WordPress-Snippets
-Bits of code I have found interesting or useful 
+
+Code samples and bits of code I dont want to forget! 
