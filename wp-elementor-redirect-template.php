@@ -1,3 +1,4 @@
+<php
 // Prevent WP from redirecting /credit-transfer-articulation/{slug} to /program/{slug}
 add_filter('redirect_canonical', function($redirect_url) {
     $request_path = trim($_SERVER['REQUEST_URI'], '/');
