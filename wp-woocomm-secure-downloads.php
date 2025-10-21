@@ -1,3 +1,4 @@
+<?php
 //Rewrite rule for product urls 
 add_action('init', function () {
     // Add the URL rewrite
